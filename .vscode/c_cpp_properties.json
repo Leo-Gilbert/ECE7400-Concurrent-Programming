@@ -1,0 +1,19 @@
+{
+    "configurations": [
+      {
+        "name": "Mac",
+        "includePath": [
+          "${workspaceFolder}/**",
+          "/opt/homebrew/opt/gcc/include/c++/13",
+          "/opt/homebrew/opt/gcc/include/c++/13/aarch64-apple-darwin23"
+        ],
+        "defines": [],
+        "macFrameworkPath": [],
+        "compilerPath": "/opt/homebrew/bin/g++-13",
+        "cStandard": "c11",
+        "cppStandard": "c++17",
+        "intelliSenseMode": "macos-gcc-arm64"
+      }
+    ],
+    "version": 4
+  }
